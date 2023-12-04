@@ -1,0 +1,49 @@
+body {
+	
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 100px;
+}
+
+.titulo-principal{
+	padding-left: 50px;
+}
+
+.titulo-centralizado{
+	text-align: center;
+	font-size: 60px
+}
+
+p {
+	text-align: center;
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.albumnevermind{
+	background: #d9d07e;
+	padding:20px;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagembeneficios {
+	width: 50%;
+}
